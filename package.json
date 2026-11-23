@@ -1,0 +1,9 @@
+{
+  "name": "almacen-don-manolo",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Tienda online + panel de administración del Almacén Don Manolo (Vercel + Blob + Mercado Pago)",
+  "dependencies": {
+    "@vercel/blob": "^2.0.0"
+  }
+}
